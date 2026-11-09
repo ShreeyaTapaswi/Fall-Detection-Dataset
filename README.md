@@ -1,4 +1,4 @@
-﻿# Fall Detection Dataset for Elderly Safety
+# Fall Detection Dataset for Elderly Safety
 
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)
 ![Videos](https://img.shields.io/badge/Videos-59-blue)
@@ -22,6 +22,7 @@ A video dataset for fall detection in surveillance-style footage, created by our
 ---
 
 ## Repository Structure
+```text
 Fall-Detection-Dataset/
 ├── Standing/ # 27 videos
 ├── Sitting/ # 17 videos
@@ -29,6 +30,7 @@ Fall-Detection-Dataset/
 ├── CITATION.cff
 ├── LICENSE
 └── README.md
+```
 
 File names follow the pattern `video_YYYYMMDD_HHMMSS.mp4`, which is the date and time of the recording.
 
