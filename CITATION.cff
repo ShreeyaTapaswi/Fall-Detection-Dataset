@@ -1,0 +1,25 @@
+﻿cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Fall Detection Dataset for Elderly Safety"
+abstract: "A video dataset for fall detection in surveillance-style footage, grouped by starting posture (standing, sitting, sleeping), created for a real-time fall detection system for elderly safety."
+authors:
+  - family-names: Tapaswi
+    given-names: Shreeya
+  - family-names: Lakare
+    given-names: Samruddhi
+  - family-names: Karne
+    given-names: Vedant
+  - family-names: Vidhate
+    given-names: Yash
+version: 1.0.0
+date-released: 2026-11-09
+license: CC-BY-4.0
+url: "https://github.com/ShreeyaTapaswi/Fall-Detection-Dataset"
+repository: "https://github.com/ShreeyaTapaswi/Fall-Detection-Dataset"
+keywords:
+  - fall detection
+  - elderly safety
+  - human activity recognition
+  - video dataset
+  - pose estimation
